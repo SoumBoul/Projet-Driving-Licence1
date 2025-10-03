@@ -1,8 +1,0 @@
-﻿bin/
-obj/
-.vs/
-*.user
-*.suo
-TestResult*/
-TestResults/
-*.log
