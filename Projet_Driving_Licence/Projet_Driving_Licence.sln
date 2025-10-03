@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet_Driving_Licence", "Projet_Driving_Licence.csproj", "{18A2E4FE-8423-492D-A1CD-B3FB02BF9ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cLassAccessLayerDrinvingLicense", "..\..\..\..\source\repos\cLassAccessLayerDrinvingLicense\cLassAccessLayerDrinvingLicense.csproj", "{EBFE41A1-02BA-4D5F-962C-F149189A4E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBusinesLayerDrivingLicense", "..\..\..\..\source\repos\ClassBusinesLayerDrivingLicense\ClassBusinesLayerDrivingLicense.csproj", "{1D886574-2A9A-4BE2-BEBC-27BD256A204C}"
+EndProject
+Global
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27EC6B3A-2038-4049-9311-0C009BC5ED6F}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A2E4FE-8423-492D-A1CD-B3FB02BF9ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A2E4FE-8423-492D-A1CD-B3FB02BF9ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A2E4FE-8423-492D-A1CD-B3FB02BF9ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A2E4FE-8423-492D-A1CD-B3FB02BF9ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D886574-2A9A-4BE2-BEBC-27BD256A204C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D886574-2A9A-4BE2-BEBC-27BD256A204C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D886574-2A9A-4BE2-BEBC-27BD256A204C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D886574-2A9A-4BE2-BEBC-27BD256A204C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFE41A1-02BA-4D5F-962C-F149189A4E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFE41A1-02BA-4D5F-962C-F149189A4E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFE41A1-02BA-4D5F-962C-F149189A4E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFE41A1-02BA-4D5F-962C-F149189A4E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
